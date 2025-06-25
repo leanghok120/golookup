@@ -7,6 +7,7 @@ golookup gets the ip addresses of a domain name
 ```sh
 golookup google.com
 ```
+![demo](./assets/demo.png)
 
 ## installation
 
