@@ -18,7 +18,11 @@ go install github.com/leanghok120/golookup
 
 ### build from source
 
-not yet
+```sh
+git clone https://github.com/leanghok120/golookup.git
+cd golookup
+go install
+```
 
 ## license
 
